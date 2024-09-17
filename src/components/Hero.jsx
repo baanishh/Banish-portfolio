@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="flex flex-col items-center justify-center">
             <h1 className="mt-16 overflow-hidden text-[12vw] leading-none font-semibold uppercase">Banish </h1>
             <div className="mt-8">
-                <a href="/Benson-Langford.pdf"
+                <a href="/Banish-Portfolio.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     download
