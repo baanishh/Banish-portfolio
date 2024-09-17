@@ -40,7 +40,7 @@ export const PROJECTS = [
     title: "Space Website",
     description:
       "Created a space-themed website with interactive elements and visuals to engage users in exploring celestial content.",
-    imgSrc: project7,
+    imgSrc: project8,
     link: "https://react-space-three.vercel.app/",
   },
   {
