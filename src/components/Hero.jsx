@@ -1,6 +1,5 @@
 import { LuImport } from "react-icons/lu"
-import benson from "../assets/benson.webp"
-import banish from "../assets/banishh.png"
+
 
 const Hero = () => {
   return (

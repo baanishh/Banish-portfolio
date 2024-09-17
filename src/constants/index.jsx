@@ -38,19 +38,19 @@ export const PROJECTS = [
   },
   {
     id: 2,
-    title: "Youtube Clone",
-    description:
-      "A Youtube Clone application with real-time Video Access.",
-    imgSrc: project2,
-    link: "https://react-youtube-clone-ecru.vercel.app/",
-  },
-  {
-    id: 3,
     title: "Space Website",
     description:
       "Created a space-themed website with interactive elements and visuals to engage users in exploring celestial content.",
     imgSrc: project3,
     link: "https://react-space-three.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Youtube Clone",
+    description:
+      "A Youtube Clone application with real-time Video Access.",
+    imgSrc: project2,
+    link: "https://react-youtube-clone-ecru.vercel.app/",
   },
   {
     id: 4,
