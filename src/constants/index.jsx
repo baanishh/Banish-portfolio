@@ -2,7 +2,6 @@ import {
   FaXTwitter,
   FaGithub,
   FaLinkedin,
-  FaFacebook,
   FaDiscord,
   FaInstagram,
 } from "react-icons/fa6";
@@ -41,7 +40,7 @@ export const PROJECTS = [
     title: "Space Website",
     description:
       "Created a space-themed website with interactive elements and visuals to engage users in exploring celestial content.",
-    imgSrc: project3,
+    imgSrc: project7,
     link: "https://react-space-three.vercel.app/",
   },
   {
